@@ -20,5 +20,8 @@ branch from stash
 
 
 cambio nuevo
+<<<<<<< HEAD
 
 >>>>>>> parent of 16c4cbd... Revert->Revert "cambio 3 freature-3""
+=======
+>>>>>>> parent of a8db58b... Revert "cambio 3 freature-3"
