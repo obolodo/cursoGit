@@ -3,4 +3,22 @@ archivo de jard-commiter
 sasdasdas
 ----------...<<
 
+<<<<<<< HEAD
 estoy en freature-1
+=======
+
+estoy en freature-1
+
+
+CAMBIO A freature-3
+add 2
+add 3
+add 5.-,-.,-.-.
+
+
+branch from stash
+
+
+cambio nuevo
+
+>>>>>>> parent of 16c4cbd... Revert->Revert "cambio 3 freature-3""
